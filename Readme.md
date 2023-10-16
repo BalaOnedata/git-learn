@@ -17,3 +17,17 @@ commands:
 
 7. git config --local user.email "your@email.com"
 
+8. git clone <url>
+9. git remote , git branch
+10. git checkout dev-bala
+
+
+
+Morning:
+1. git pull origin <common-branch>
+2. git add .
+3. git commit -am "message"
+4. git push origin <our-branch>
+
+Pull request:
+1. 
